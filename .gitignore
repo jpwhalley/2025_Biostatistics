@@ -1,6 +1,6 @@
 # Files to be temporarily hidden
 # e2_Getting_Data/ex2_getting_data.ipynb
-e3_qPCR/ex3b_analyse_qPCR_data_time.ipynb
+# e3_qPCR/ex3b_analyse_qPCR_data_time.ipynb
 e4_dim_reduction/e4_multidimensional_scaling.ipynb
 e5_power_calculations/ex5_expression_data_pca.R
 
