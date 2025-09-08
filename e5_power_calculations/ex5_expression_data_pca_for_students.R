@@ -32,9 +32,9 @@ print(pwr.t.test(type = "two.sample", d = eff, sig.level = sig, power = pow))
 
 
 ## For single cell data
-# You wish to do a single cell project on rat brains, you wish to check how much power you have when using 12 samples, aiming
+# You wish to do a single cell project on mouse brains, you wish to check how much power you have when using 12 samples, aiming
 # for 10k cells per sample, with a read depth of 100k reads. The cell type you are most interested in is expected to be around 
-# 20% of the the otherall cells. For this project you are looking at differential expression.
+# 20% of the the overall cells. For this project you are looking at differential expression.
 install.packages("devtools")
 devtools::install_github("hadley/devtools")
 devtools::install_github("heiniglab/scPower") # Useful website https://scpower.helmholtz-muenchen.de/
